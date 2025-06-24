@@ -3,6 +3,7 @@ project:
     name: Shulman-Intake
     package:
         name: Shulman-Intake
+        name_managed: Shulman Intake
         api_version: '64.0'
     git:
         default_branch: 'main'
