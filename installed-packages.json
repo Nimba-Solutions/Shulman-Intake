@@ -1,0 +1,728 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "Id": "0A32E000000B0qzSAC",
+      "SubscriberPackageId": "0330b0000001RqeAAE",
+      "SubscriberPackageName": "Matters Collapsible Page Template",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t0b000001jjYdAAI",
+      "SubscriberPackageVersionName": "Litify Matters Layout with Collapsible Sidebar",
+      "SubscriberPackageVersionNumber": "2.1.0.1"
+    },
+    {
+      "Id": "0A32E000000vVphSAE",
+      "SubscriberPackageId": "0330b000000A1xRAAS",
+      "SubscriberPackageName": "Intake Optimization Dash",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t0b000001uXs8AAE",
+      "SubscriberPackageVersionName": "Intake Optimization",
+      "SubscriberPackageVersionNumber": "1.1.0.1"
+    },
+    {
+      "Id": "0A3TV0000004uAE0AY",
+      "SubscriberPackageId": "0331I0000004GtSQAU",
+      "SubscriberPackageName": "DomoReporting",
+      "SubscriberPackageNamespace": "Domo_Inc",
+      "SubscriberPackageVersionId": "04t1I000001ymKNQAY",
+      "SubscriberPackageVersionName": "version 1",
+      "SubscriberPackageVersionNumber": "1.0.0.2"
+    },
+    {
+      "Id": "0A36R000000KXfISAW",
+      "SubscriberPackageId": "0331I000000ht7hQAA",
+      "SubscriberPackageName": "FieldPro",
+      "SubscriberPackageNamespace": "fpro",
+      "SubscriberPackageVersionId": "04tHp000001CexuIAC",
+      "SubscriberPackageVersionName": "Spring 2025 Trial",
+      "SubscriberPackageVersionNumber": "1.84.0.1"
+    },
+    {
+      "Id": "0A36R000000KYLYSA4",
+      "SubscriberPackageId": "0331K000000d1DEQAY",
+      "SubscriberPackageName": "lookupFSC",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t1K0000033M3ZQAU",
+      "SubscriberPackageVersionName": "CommunityFix",
+      "SubscriberPackageVersionNumber": "2.34.0.1"
+    },
+    {
+      "Id": "0A3TV0000000HvJ0AU",
+      "SubscriberPackageId": "0331R0000010zRAQAY",
+      "SubscriberPackageName": "Docrio SDK",
+      "SubscriberPackageNamespace": "docriosdk",
+      "SubscriberPackageVersionId": "04t1R000001QiLCQA0",
+      "SubscriberPackageVersionName": "ver 0.8",
+      "SubscriberPackageVersionNumber": "0.8.0.1"
+    },
+    {
+      "Id": "0A32E000000BAnMSAW",
+      "SubscriberPackageId": "0331U000000aJHRQA2",
+      "SubscriberPackageName": "Litify Docs",
+      "SubscriberPackageNamespace": "litify_docs",
+      "SubscriberPackageVersionId": "04tKi000000D3QHIA0",
+      "SubscriberPackageVersionName": "Docrio v20.13",
+      "SubscriberPackageVersionNumber": "20.13.0.1"
+    },
+    {
+      "Id": "0A32E000000BCmaSAG",
+      "SubscriberPackageId": "0331U000000dcCuQAI",
+      "SubscriberPackageName": "Litify Docs ETL Tool",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t1U000007oTyzQAE",
+      "SubscriberPackageVersionName": "Scalability",
+      "SubscriberPackageVersionNumber": "1.2.0.1"
+    },
+    {
+      "Id": "0A3TV0000001UnG0AU",
+      "SubscriberPackageId": "033240000009bziAAA",
+      "SubscriberPackageName": "Elements for Salesforce",
+      "SubscriberPackageNamespace": "Q9",
+      "SubscriberPackageVersionId": "04tJ60000000t8xIAA",
+      "SubscriberPackageVersionName": "6.0.1",
+      "SubscriberPackageVersionNumber": "6.0.1.1"
+    },
+    {
+      "Id": "0A3TV0000004Jti0AE",
+      "SubscriberPackageId": "0332w000000UgF3AAK",
+      "SubscriberPackageName": "Time Warp",
+      "SubscriberPackageNamespace": "bmpyrckt",
+      "SubscriberPackageVersionId": "04t2w000009gtDFAAY",
+      "SubscriberPackageVersionName": "Ross",
+      "SubscriberPackageVersionNumber": "1.14.0.1"
+    },
+    {
+      "Id": "0A32E000000B4XZSA0",
+      "SubscriberPackageId": "03330000000wDAbAAM",
+      "SubscriberPackageName": "Salesforce Connected Apps",
+      "SubscriberPackageNamespace": "sf_com_apps",
+      "SubscriberPackageVersionId": "04t30000001DUvrAAG",
+      "SubscriberPackageVersionName": "Winter '16",
+      "SubscriberPackageVersionNumber": "1.7.0.1"
+    },
+    {
+      "Id": "0A32E000000oad8SAA",
+      "SubscriberPackageId": "03330000001Ig8MAAS",
+      "SubscriberPackageName": "Salesforce Mobile Apps",
+      "SubscriberPackageNamespace": "sf_chttr_apps",
+      "SubscriberPackageVersionId": "04t4V000001i8KvQAI",
+      "SubscriberPackageVersionName": "Winter 2025",
+      "SubscriberPackageVersionNumber": "1.23.0.1"
+    },
+    {
+      "Id": "0A32E000000BDs0SAG",
+      "SubscriberPackageId": "0333J0000008VLZQA2",
+      "SubscriberPackageName": "Docrio DocuSign Integration",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t3J0000000VhHQAU",
+      "SubscriberPackageVersionName": "Docrio Docusign",
+      "SubscriberPackageVersionNumber": "1.2.0.1"
+    },
+    {
+      "Id": "0A3TV0000003bfm0AA",
+      "SubscriberPackageId": "0333Z000000CkATQA0",
+      "SubscriberPackageName": "SiX for NICE inContact",
+      "SubscriberPackageNamespace": "SiX",
+      "SubscriberPackageVersionId": "04tPl0000004WMHIA2",
+      "SubscriberPackageVersionName": "24.1",
+      "SubscriberPackageVersionNumber": "1.12.0.0"
+    },
+    {
+      "Id": "0A32E000000vVBISA2",
+      "SubscriberPackageId": "0333h000000HTbGAAW",
+      "SubscriberPackageName": "Issue Tracker",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t3h000002C5FcAAK",
+      "SubscriberPackageVersionName": "October",
+      "SubscriberPackageVersionNumber": "1.5.0.1"
+    },
+    {
+      "Id": "0A32E000000BDrvSAG",
+      "SubscriberPackageId": "0333h000000L3o2AAC",
+      "SubscriberPackageName": "Chronology View",
+      "SubscriberPackageNamespace": "litify_chrono",
+      "SubscriberPackageVersionId": "04t3h000002NeY1AAK",
+      "SubscriberPackageVersionName": "1.6",
+      "SubscriberPackageVersionNumber": "1.6.0.2"
+    },
+    {
+      "Id": "0A32E000000vT5mSAE",
+      "SubscriberPackageId": "0333i0000009TeJAAU",
+      "SubscriberPackageName": "Litify Records Clone",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t3i000002etFFAAY",
+      "SubscriberPackageVersionName": "1.12",
+      "SubscriberPackageVersionNumber": "1.12.0.1"
+    },
+    {
+      "Id": "0A32E0000002twnSAA",
+      "SubscriberPackageId": "0333i0000009TjZAAU",
+      "SubscriberPackageName": "Litify Collapsible Homepage",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t3i000002eoOfAAI",
+      "SubscriberPackageVersionName": "1.0",
+      "SubscriberPackageVersionNumber": "1.0.0.1"
+    },
+    {
+      "Id": "0A32E000000vVxWSAU",
+      "SubscriberPackageId": "0333i0000009WENAA2",
+      "SubscriberPackageName": "Litify User Notification",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t3i000002esw6AAA",
+      "SubscriberPackageVersionName": "1.5",
+      "SubscriberPackageVersionNumber": "1.5.0.1"
+    },
+    {
+      "Id": "0A32E000000BCoaSAG",
+      "SubscriberPackageId": "0333i000000YhiBAAS",
+      "SubscriberPackageName": "lightning-page-templates",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t3i000002rF1PAAU",
+      "SubscriberPackageVersionName": "1.0",
+      "SubscriberPackageVersionNumber": "1.0.0.3"
+    },
+    {
+      "Id": "0A32E000000vSTnSAM",
+      "SubscriberPackageId": "0333t000000HCMsAAO",
+      "SubscriberPackageName": "Litify Extensions",
+      "SubscriberPackageNamespace": "litify_ext",
+      "SubscriberPackageVersionId": "04t3t000002krfPAAQ",
+      "SubscriberPackageVersionName": "1.70",
+      "SubscriberPackageVersionNumber": "1.70.0.1"
+    },
+    {
+      "Id": "0A32E000000B9DwSAK",
+      "SubscriberPackageId": "0334P000000YmttQAC",
+      "SubscriberPackageName": "Litify Settlement Calculator",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t4P000002icRwQAI",
+      "SubscriberPackageVersionName": "Autumn 2019",
+      "SubscriberPackageVersionNumber": "1.6.0.1"
+    },
+    {
+      "Id": "0A32E0000002OpbSAE",
+      "SubscriberPackageId": "0334P000000bunqQAA",
+      "SubscriberPackageName": "Template Command Center",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t4P000000dmdXQAQ",
+      "SubscriberPackageVersionName": "Template Command Center",
+      "SubscriberPackageVersionNumber": "1.0.0.1"
+    },
+    {
+      "Id": "0A32E000000B1G4SAK",
+      "SubscriberPackageId": "0334P000000cRFbQAM",
+      "SubscriberPackageName": "marketingROI",
+      "SubscriberPackageNamespace": "litify_mktgROI",
+      "SubscriberPackageVersionId": "04t4P000001JNfmQAG",
+      "SubscriberPackageVersionName": "1.1",
+      "SubscriberPackageVersionNumber": "1.1.0.1"
+    },
+    {
+      "Id": "0A32E000000vTuBSAU",
+      "SubscriberPackageId": "0334R00000027E3QAI",
+      "SubscriberPackageName": "Matter Plan Import",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t4R000001NO9iQAG",
+      "SubscriberPackageVersionName": "1.15",
+      "SubscriberPackageVersionNumber": "1.15.0.1"
+    },
+    {
+      "Id": "0A32E000000B7fASAS",
+      "SubscriberPackageId": "0334T000000LF2CQAW",
+      "SubscriberPackageName": "Custom Lightning Text Banners",
+      "SubscriberPackageNamespace": "mgbanners",
+      "SubscriberPackageVersionId": "04t4T0000011RGTQA2",
+      "SubscriberPackageVersionName": "Summer 2019",
+      "SubscriberPackageVersionNumber": "1.0.0.1"
+    },
+    {
+      "Id": "0A36R000000KY6mSAG",
+      "SubscriberPackageId": "0334W000000WQBkQAO",
+      "SubscriberPackageName": "Records on Time",
+      "SubscriberPackageNamespace": "RecordRetriever",
+      "SubscriberPackageVersionId": "04t4W000002LmW3QAK",
+      "SubscriberPackageVersionName": "Nov21-1",
+      "SubscriberPackageVersionNumber": "1.43.0.2"
+    },
+    {
+      "Id": "0A3TV00000045HG0AY",
+      "SubscriberPackageId": "0334x000000EoC5AAK",
+      "SubscriberPackageName": "CustomMetadataSaver",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t4x000000FDcnAAG",
+      "SubscriberPackageVersionName": "Unlocked Package Release",
+      "SubscriberPackageVersionNumber": "1.0.0.0"
+    },
+    {
+      "Id": "0A36R000001DZbDSAW",
+      "SubscriberPackageId": "0334x000000wlZbAAI",
+      "SubscriberPackageName": "Case Status - Salesforce",
+      "SubscriberPackageNamespace": "CStatus",
+      "SubscriberPackageVersionId": "04t4x000000iia9AAA",
+      "SubscriberPackageVersionName": "Include Appointment Type",
+      "SubscriberPackageVersionNumber": "1.21.0.1"
+    },
+    {
+      "Id": "0A32E000000oacnSAA",
+      "SubscriberPackageId": "03350000000TfcXAAS",
+      "SubscriberPackageName": "Litify",
+      "SubscriberPackageNamespace": "litify_pm",
+      "SubscriberPackageVersionId": "04tHs000001EqUGIA0",
+      "SubscriberPackageVersionName": "Litify v39.9",
+      "SubscriberPackageVersionNumber": "32.9.0.1"
+    },
+    {
+      "Id": "0A32E000000BGGsSAO",
+      "SubscriberPackageId": "03358000000L058AAC",
+      "SubscriberPackageName": "Sortable Datagrid",
+      "SubscriberPackageNamespace": "sortablegrid",
+      "SubscriberPackageVersionId": "04t4H000000N1ztQAC",
+      "SubscriberPackageVersionName": "Jan 2022",
+      "SubscriberPackageVersionNumber": "3.42.0.1"
+    },
+    {
+      "Id": "0A3TV00000068J80AI",
+      "SubscriberPackageId": "03358000000Q8xqAAC",
+      "SubscriberPackageName": "Sales Insights",
+      "SubscriberPackageNamespace": "OIQ",
+      "SubscriberPackageVersionId": "04t58000000SGw3AAG",
+      "SubscriberPackageVersionName": "1.0",
+      "SubscriberPackageVersionNumber": "1.0.0.1"
+    },
+    {
+      "Id": "0A36R000000hyzFSAQ",
+      "SubscriberPackageId": "0335G000000eexsQAA",
+      "SubscriberPackageName": "FlowAutoNavigate",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t5G0000043wpcQAA",
+      "SubscriberPackageVersionName": "ver 0.1",
+      "SubscriberPackageVersionNumber": "1.0.0.0"
+    },
+    {
+      "Id": "0A36R000000MoMtSAK",
+      "SubscriberPackageId": "0335G000000eezoQAA",
+      "SubscriberPackageName": "LightningInputFSC",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t5G0000043wsRQAQ",
+      "SubscriberPackageVersionName": "ver 0.1",
+      "SubscriberPackageVersionNumber": "1.0.0.0"
+    },
+    {
+      "Id": "0A3TV0000002Gwj0AE",
+      "SubscriberPackageId": "0335G000000efz0QAA",
+      "SubscriberPackageName": "ConvertCSVToRecords_LWC",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t5G0000043xtPQAQ",
+      "SubscriberPackageVersionName": "ver 0.1",
+      "SubscriberPackageVersionNumber": "1.0.1.0"
+    },
+    {
+      "Id": "0A3TV0000003iHS0AY",
+      "SubscriberPackageId": "0335G000000ijzAQAQ",
+      "SubscriberPackageName": "clipboardButton",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t5G000004C6vvQAC",
+      "SubscriberPackageVersionName": "Version 1.1",
+      "SubscriberPackageVersionNumber": "1.1.1.0"
+    },
+    {
+      "Id": "0A36R000000KYWkSAO",
+      "SubscriberPackageId": "0335G000000ik24QAA",
+      "SubscriberPackageName": "GetPicklistValuesBulkified",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t5G0000043xs7QAA",
+      "SubscriberPackageVersionName": "ver 0.1",
+      "SubscriberPackageVersionNumber": "1.5.0.0"
+    },
+    {
+      "Id": "0A36R0000010wnySAA",
+      "SubscriberPackageId": "0335G000000mjPYQAY",
+      "SubscriberPackageName": "datatable",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t5G000004XZlHQAW",
+      "SubscriberPackageVersionName": "Datatable v4",
+      "SubscriberPackageVersionNumber": "4.2.0.0"
+    },
+    {
+      "Id": "0A36R000000KYLcSAO",
+      "SubscriberPackageId": "0335G000000mjQMQAY",
+      "SubscriberPackageName": "directNavigation",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t5G000004PuWpQAK",
+      "SubscriberPackageVersionName": "ver 0.1",
+      "SubscriberPackageVersionNumber": "1.0.0.0"
+    },
+    {
+      "Id": "0A36R0000019Kw2SAE",
+      "SubscriberPackageId": "0335G000000mjQbQAI",
+      "SubscriberPackageName": "customHeader",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t5G000004PucoQAC",
+      "SubscriberPackageVersionName": "ver 0.1",
+      "SubscriberPackageVersionNumber": "1.0.0.0"
+    },
+    {
+      "Id": "0A3TV00000068HS0AY",
+      "SubscriberPackageId": "0335Y000000BLtoQAG",
+      "SubscriberPackageName": "Salesforce Standard Data Model",
+      "SubscriberPackageNamespace": "ssot",
+      "SubscriberPackageVersionId": "04tKe0000011Mk5IAE",
+      "SubscriberPackageVersionName": "1.97",
+      "SubscriberPackageVersionNumber": "1.97.0.1"
+    },
+    {
+      "Id": "0A3TV0000000IbG0AU",
+      "SubscriberPackageId": "0335Y0000017AQFQA2",
+      "SubscriberPackageName": "BRIOLabs Flow Logger",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t5Y000001Oe6rQAC",
+      "SubscriberPackageVersionName": "Summer 2022",
+      "SubscriberPackageVersionNumber": "1.4.0.1"
+    },
+    {
+      "Id": "0A36R000000sfFgSAI",
+      "SubscriberPackageId": "0335w0000009tIJAAY",
+      "SubscriberPackageName": "Litify DocuSign eSignature Helper",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t5w000005dkvWAAQ",
+      "SubscriberPackageVersionName": "1.2",
+      "SubscriberPackageVersionNumber": "1.2.0.1"
+    },
+    {
+      "Id": "0A36R000000AdeXSAS",
+      "SubscriberPackageId": "0335w000000gFKRAA2",
+      "SubscriberPackageName": "Docrio File & Attachment Converter",
+      "SubscriberPackageNamespace": "litify_dfc",
+      "SubscriberPackageVersionId": "04t5w000005qxFgAAI",
+      "SubscriberPackageVersionName": "1.44",
+      "SubscriberPackageVersionNumber": "1.44.0.1"
+    },
+    {
+      "Id": "0A32E000000BGDASA4",
+      "SubscriberPackageId": "033600000008cdgAAA",
+      "SubscriberPackageName": "DBSync: QuickBooks Integration",
+      "SubscriberPackageNamespace": "AVSFQB",
+      "SubscriberPackageVersionId": "04t600000001jlqAAA",
+      "SubscriberPackageVersionName": "1.25",
+      "SubscriberPackageVersionNumber": "1.25.0.6"
+    },
+    {
+      "Id": "0A36R000000sfFRSAY",
+      "SubscriberPackageId": "0336A000000R2HGQA0",
+      "SubscriberPackageName": "Docusign Apps Launcher",
+      "SubscriberPackageNamespace": "dfsle",
+      "SubscriberPackageVersionId": "04t3u000002zolrAAA",
+      "SubscriberPackageVersionName": "4.4.2",
+      "SubscriberPackageVersionNumber": "4.4.2.1"
+    },
+    {
+      "Id": "0A32E000000B1OhSAK",
+      "SubscriberPackageId": "0336A000000Yr0fQAC",
+      "SubscriberPackageName": "Trifecta Litify Hearings and Depositions",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t6A000002zZ91QAE",
+      "SubscriberPackageVersionName": "Trifecta Litify HD 18.5",
+      "SubscriberPackageVersionNumber": "18.5.0.1"
+    },
+    {
+      "Id": "0A36R000000kZw5SAE",
+      "SubscriberPackageId": "0336F000000G4dvQAC",
+      "SubscriberPackageName": "Address Picker Autocomplete for Flow",
+      "SubscriberPackageNamespace": "DV_Flow_AP",
+      "SubscriberPackageVersionId": "04t6F000004DJCEQA4",
+      "SubscriberPackageVersionName": "25022021",
+      "SubscriberPackageVersionNumber": "1.16.0.1"
+    },
+    {
+      "Id": "0A36R00000158qySAA",
+      "SubscriberPackageId": "0336F000000g5PaQAI",
+      "SubscriberPackageName": "FlowConfetti",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t6F000004DGGLQA4",
+      "SubscriberPackageVersionName": "FlowConfetti",
+      "SubscriberPackageVersionNumber": "1.0.0.1"
+    },
+    {
+      "Id": "0A3TV00000068Fq0AI",
+      "SubscriberPackageId": "0336S000000spIBQAY",
+      "SubscriberPackageName": "CDPAdvertising",
+      "SubscriberPackageNamespace": "cdpactvstrgptnr",
+      "SubscriberPackageVersionId": "04tKk000000cBnVIAU",
+      "SubscriberPackageVersionName": "256.8",
+      "SubscriberPackageVersionNumber": "3.17.0.1"
+    },
+    {
+      "Id": "0A36R000000AdPWSA0",
+      "SubscriberPackageId": "0336g0000006wPhAAI",
+      "SubscriberPackageName": "AssureSign_Lightning",
+      "SubscriberPackageNamespace": "ASL",
+      "SubscriberPackageVersionId": "04t6g000007zIslAAE",
+      "SubscriberPackageVersionName": "Winter 2020",
+      "SubscriberPackageVersionNumber": "1.6.0.1"
+    },
+    {
+      "Id": "0A36R000000MoFiSAK",
+      "SubscriberPackageId": "0336g000000NogpAAC",
+      "SubscriberPackageName": "Code Builder",
+      "SubscriberPackageNamespace": "CodeBuilder",
+      "SubscriberPackageVersionId": "04t6g000008fIj9AAE",
+      "SubscriberPackageVersionName": "ver 1.3.0",
+      "SubscriberPackageVersionNumber": "1.3.0.16"
+    },
+    {
+      "Id": "0A32E000000vW5GSAU",
+      "SubscriberPackageId": "0336g000000RqQwAAK",
+      "SubscriberPackageName": "New Adoption Dashboard",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t6g000008BzLvAAK",
+      "SubscriberPackageVersionName": "1.1",
+      "SubscriberPackageVersionNumber": "1.1.0.1"
+    },
+    {
+      "Id": "0A36R000000MoQMSA0",
+      "SubscriberPackageId": "0336g000000kGMcAAM",
+      "SubscriberPackageName": "DevOps Center",
+      "SubscriberPackageNamespace": "sf_devops",
+      "SubscriberPackageVersionId": "04t6g000008wTEPAA2",
+      "SubscriberPackageVersionName": "10.1.0",
+      "SubscriberPackageVersionNumber": "10.1.0.1"
+    },
+    {
+      "Id": "0A32E0000006YjuSAE",
+      "SubscriberPackageId": "033800000002SCfAAM",
+      "SubscriberPackageName": "AssureSign",
+      "SubscriberPackageNamespace": "AS",
+      "SubscriberPackageVersionId": "04t80000000jY1WAAU",
+      "SubscriberPackageVersionName": "2.13",
+      "SubscriberPackageVersionNumber": "2.13.0.1"
+    },
+    {
+      "Id": "0A36R00000158yDSAQ",
+      "SubscriberPackageId": "0338b000000khTgAAI",
+      "SubscriberPackageName": "FlowActionsBasePack",
+      "SubscriberPackageNamespace": "usf3",
+      "SubscriberPackageVersionId": "04t8b000001BTgsAAG",
+      "SubscriberPackageVersionName": "versionName",
+      "SubscriberPackageVersionNumber": "3.15.0.0"
+    },
+    {
+      "Id": "0A36R000000AdKSSA0",
+      "SubscriberPackageId": "033B00000005eCFIAY",
+      "SubscriberPackageName": "updateScreen",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04tB00000006G6iIAE",
+      "SubscriberPackageVersionName": "Summer 2018",
+      "SubscriberPackageVersionNumber": "1.0.0.1"
+    },
+    {
+      "Id": "0A3TV00000048ew0AA",
+      "SubscriberPackageId": "033B00000005hNBIAY",
+      "SubscriberPackageName": "imageFSC",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04tB00000006K2BIAU",
+      "SubscriberPackageVersionName": "1.0",
+      "SubscriberPackageVersionNumber": "1.0.0.1"
+    },
+    {
+      "Id": "0A36R0000010wo4SAA",
+      "SubscriberPackageId": "033B0000000M05bIAC",
+      "SubscriberPackageName": "multishimFSC",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04tB0000000N4tiIAC",
+      "SubscriberPackageVersionName": "1.0",
+      "SubscriberPackageVersionNumber": "1.0.0.1"
+    },
+    {
+      "Id": "0A32E000000vTjISAU",
+      "SubscriberPackageId": "033B0000000M1RnIAK",
+      "SubscriberPackageName": "ShowToastFA",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04tB0000000N6GxIAK",
+      "SubscriberPackageVersionName": "Summer 2018",
+      "SubscriberPackageVersionNumber": "1.2.0.1"
+    },
+    {
+      "Id": "0A36R000000KYLrSAO",
+      "SubscriberPackageId": "033B0000000N9uXIAS",
+      "SubscriberPackageName": "GetGroupInfo",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04tB0000000P0s9IAC",
+      "SubscriberPackageVersionName": "ver 0.1",
+      "SubscriberPackageVersionNumber": "1.0.0.0"
+    },
+    {
+      "Id": "0A3TV00000045Fe0AI",
+      "SubscriberPackageId": "033Dm0000004SC4IAM",
+      "SubscriberPackageName": "Data Fetcher",
+      "SubscriberPackageNamespace": "joshdaymentlabs",
+      "SubscriberPackageVersionId": "04tDm000000tLWtIAM",
+      "SubscriberPackageVersionName": "ver 2.3",
+      "SubscriberPackageVersionNumber": "2.3.0.1"
+    },
+    {
+      "Id": "0A3TV0000001oUU0AY",
+      "SubscriberPackageId": "033G0000000UFptIAG",
+      "SubscriberPackageName": "Spanning",
+      "SubscriberPackageNamespace": "spanning",
+      "SubscriberPackageVersionId": "04t4w0000019zz3AAA",
+      "SubscriberPackageVersionName": "Summer 2024",
+      "SubscriberPackageVersionNumber": "2.9.0.1"
+    },
+    {
+      "Id": "0A3TV0000001VTC0A2",
+      "SubscriberPackageId": "033Hr000000BK6ZIAW",
+      "SubscriberPackageName": "Schema Extractor CSV",
+      "SubscriberPackageNamespace": "ECHO1",
+      "SubscriberPackageVersionId": "04tHr000001B5fTIAS",
+      "SubscriberPackageVersionName": "Winter '24",
+      "SubscriberPackageVersionNumber": "1.4.0.2"
+    },
+    {
+      "Id": "0A3TV0000003aji0AA",
+      "SubscriberPackageId": "033Rh0000000o85IAA",
+      "SubscriberPackageName": "Docrio SDK",
+      "SubscriberPackageNamespace": "litify",
+      "SubscriberPackageVersionId": "04tRh000000XokPIAS",
+      "SubscriberPackageVersionName": "v1.9.0",
+      "SubscriberPackageVersionNumber": "1.9.0.1"
+    },
+    {
+      "Id": "0A3TV0000003ai60AA",
+      "SubscriberPackageId": "033Rh0000003EODIA2",
+      "SubscriberPackageName": "litify-api-access",
+      "SubscriberPackageNamespace": "litify",
+      "SubscriberPackageVersionId": "04tRh0000002ybBIAQ",
+      "SubscriberPackageVersionName": "v1.1",
+      "SubscriberPackageVersionNumber": "1.1.0.1"
+    },
+    {
+      "Id": "0A32E000000AyIfSAK",
+      "SubscriberPackageId": "033U0000000TVWmIAO",
+      "SubscriberPackageName": "SMS-Magic Converse",
+      "SubscriberPackageNamespace": "smagicinteract",
+      "SubscriberPackageVersionId": "04t4O000000657cQAA",
+      "SubscriberPackageVersionName": "1.72.42",
+      "SubscriberPackageVersionNumber": "1.72.42.1"
+    },
+    {
+      "Id": "0A3TV0000002TZ00AM",
+      "SubscriberPackageId": "033Wr0000004WfdIAE",
+      "SubscriberPackageName": "CAMG Calls & Forms",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04tWr0000004dyrIAA",
+      "SubscriberPackageVersionName": "CAMG Calls & Forms",
+      "SubscriberPackageVersionNumber": "1.0.0.1"
+    },
+    {
+      "Id": "0A3TV0000000vEQ0AY",
+      "SubscriberPackageId": "033ao0000001SFBAA2",
+      "SubscriberPackageName": "Case Status - Email Alerts (Litify Notes)",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04tao0000003ZinAAE",
+      "SubscriberPackageVersionName": "Spring 2024",
+      "SubscriberPackageVersionNumber": "1.1.0.1"
+    },
+    {
+      "Id": "0A32E000000vTjXSAU",
+      "SubscriberPackageId": "033b0000000Pf2AAAS",
+      "SubscriberPackageName": "Declarative Lookup Rollup Summaries Tool",
+      "SubscriberPackageNamespace": "dlrs",
+      "SubscriberPackageVersionId": "04t0N000000YGN4QAO",
+      "SubscriberPackageVersionName": "2.12",
+      "SubscriberPackageVersionNumber": "2.12.0.4"
+    },
+    {
+      "Id": "0A36R000001598xSAA",
+      "SubscriberPackageId": "033d0000000EFR5AAO",
+      "SubscriberPackageName": "Mailchimp Integration App",
+      "SubscriberPackageNamespace": "MC4SF",
+      "SubscriberPackageVersionId": "04tKh000002NHFJIA4",
+      "SubscriberPackageVersionName": "Spring 2025",
+      "SubscriberPackageVersionNumber": "1.106.0.4"
+    },
+    {
+      "Id": "0A36R000000KXpwSAG",
+      "SubscriberPackageId": "033f40000005HryAAE",
+      "SubscriberPackageName": "Mass Action Scheduler",
+      "SubscriberPackageNamespace": "dca_mass_action",
+      "SubscriberPackageVersionId": "04t5G0000043ybSQAQ",
+      "SubscriberPackageVersionName": "2.5.1",
+      "SubscriberPackageVersionNumber": "2.501.0.1"
+    },
+    {
+      "Id": "0A36R0000010wo5SAA",
+      "SubscriberPackageId": "033f4000000AoSBAA0",
+      "SubscriberPackageName": "CommitTransaction",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04tf4000003RQaBAAW",
+      "SubscriberPackageVersionName": "ver 0.1",
+      "SubscriberPackageVersionNumber": "1.0.0.0"
+    },
+    {
+      "Id": "0A36R000000KYLhSAO",
+      "SubscriberPackageId": "033f4000000AocNAAS",
+      "SubscriberPackageName": "CollectionActionsL",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t5G0000043wsMQAQ",
+      "SubscriberPackageVersionName": "version",
+      "SubscriberPackageVersionNumber": "3.0.4.0"
+    },
+    {
+      "Id": "0A36R000000sfOOSAY",
+      "SubscriberPackageId": "033f4000000JPudAAG",
+      "SubscriberPackageName": "OpenURL",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04tf4000004MfAnAAK",
+      "SubscriberPackageVersionName": "1.0",
+      "SubscriberPackageVersionNumber": "1.0.0.1"
+    },
+    {
+      "Id": "0A36R0000010wXlSAI",
+      "SubscriberPackageId": "033f4000000miIjAAI",
+      "SubscriberPackageName": "richTextAreaFSC",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t5G0000047xM8QAI",
+      "SubscriberPackageVersionName": "ver 0.1",
+      "SubscriberPackageVersionNumber": "1.4.1.0"
+    },
+    {
+      "Id": "0A36R000001592USAQ",
+      "SubscriberPackageId": "033f4000000miUSAAY",
+      "SubscriberPackageName": "SOQLBuildAndExecute",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t5G0000043xtAQAQ",
+      "SubscriberPackageVersionName": "ver 0.1",
+      "SubscriberPackageVersionNumber": "1.3.8.0"
+    },
+    {
+      "Id": "0A3TV0000004PuI0AU",
+      "SubscriberPackageId": "033f4000000mj3FAAQ",
+      "SubscriberPackageName": "SerializeDeserialize",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t5G000003rUfCQAU",
+      "SubscriberPackageVersionName": "ver 0.1",
+      "SubscriberPackageVersionNumber": "1.1.0.0"
+    },
+    {
+      "Id": "0A36R000000MoF9SAK",
+      "SubscriberPackageId": "033f4000000mjCrAAI",
+      "SubscriberPackageName": "SendBetterEmail",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t5G0000043xtKQAQ",
+      "SubscriberPackageVersionName": "versionName",
+      "SubscriberPackageVersionNumber": "3.2.0.0"
+    },
+    {
+      "Id": "0A36R00000158yISAQ",
+      "SubscriberPackageId": "033f4000000mjNrAAI",
+      "SubscriberPackageName": "FlowScreenComponentsBasePack",
+      "SubscriberPackageNamespace": null,
+      "SubscriberPackageVersionId": "04t5G000004XZjLQAW",
+      "SubscriberPackageVersionName": "3.3.2.0",
+      "SubscriberPackageVersionNumber": "3.3.2.0"
+    }
+  ],
+  "warnings": [
+    "The \"-u\" flag has been deprecated. Use \"--target-org | -o\" instead."
+  ]
+}

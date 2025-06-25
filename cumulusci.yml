@@ -11,6 +11,17 @@ project:
         prefix_beta: "beta/"
         prefix_release: "release/"
     source_format: sfdx
+    dependencies:
+        - namespace: litify_pm
+          version: "32.9.0.1"
+        - name: GetPicklistValuesBulkified
+          version_id: "04t5G0000043xs7QAA"
+        - name: directNavigation
+          version_id: "04t5G000004PuWpQAK"
+        - name: customHeader
+          version_id: "04t5G000004PucoQAC"
+        - name: lookupFSC
+          version_id: "04t1K0000033M3ZQAU"
 
 tasks:
     robot:
