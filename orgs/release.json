@@ -5,6 +5,12 @@
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
     },
+    "emailAdministrationSettings": {
+      "enableEnhancedEmailEnabled": true
+    },
+    "enhancedNotesSettings": {
+      "enableEnhancedNotes": true
+    },
     "chatterSettings": {
       "enableChatter": true
     },
@@ -16,5 +22,6 @@
       "sessionSettings": {
         "forceRelogin": false
       }
-    }  }
+    }
+  }
 }
