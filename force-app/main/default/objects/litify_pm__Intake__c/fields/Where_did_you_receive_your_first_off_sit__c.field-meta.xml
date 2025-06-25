@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Where_did_you_receive_your_first_off_sit__c</fullName>
+    <label>Where did you receive your first off sit</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>None Received</fullName>
+                <default>false</default>
+                <label>None Received</label>
+            </value>
+            <value>
+                <fullName>Emergency Room</fullName>
+                <default>false</default>
+                <label>Emergency Room</label>
+            </value>
+            <value>
+                <fullName>Doctor&apos;s office</fullName>
+                <default>false</default>
+                <label>Doctor&apos;s office</label>
+            </value>
+            <value>
+                <fullName>Clinic</fullName>
+                <default>false</default>
+                <label>Clinic</label>
+            </value>
+            <value>
+                <fullName>Hospital</fullName>
+                <default>false</default>
+                <label>Hospital</label>
+            </value>
+            <value>
+                <fullName>Urgent Care</fullName>
+                <default>false</default>
+                <label>Urgent Care</label>
+            </value>
+            <value>
+                <fullName>Hospital Stay over 24 hours</fullName>
+                <default>false</default>
+                <label>Hospital Stay over 24 hours</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

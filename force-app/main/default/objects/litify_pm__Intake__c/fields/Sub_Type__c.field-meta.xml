@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Sub_Type__c</fullName>
+    <label>Sub Type</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>Case_Type__c</controllingField>
+        <restricted>true</restricted>
+        <valueSetName>Sub_types</valueSetName>
+        <valueSettings>
+            <controllingFieldValue>Labor Law</controllingFieldValue>
+            <valueName>240 - Fall from height</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Labor Law</controllingFieldValue>
+            <valueName>240 - Falling Object</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Labor Law</controllingFieldValue>
+            <valueName>241(6) - Trip and Fall</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Labor Law</controllingFieldValue>
+            <valueName>241(6) - Slip and Fall</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Labor Law</controllingFieldValue>
+            <valueName>241(6) - Defective Tool</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Labor Law</controllingFieldValue>
+            <valueName>241(6) - Other</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Labor Law</controllingFieldValue>
+            <controllingFieldValue>Premises</controllingFieldValue>
+            <valueName>Wrongful Death</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Labor Law</controllingFieldValue>
+            <controllingFieldValue>Premises</controllingFieldValue>
+            <controllingFieldValue>MVA</controllingFieldValue>
+            <valueName>Other</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Rikers</controllingFieldValue>
+            <controllingFieldValue>PAC</controllingFieldValue>
+            <valueName>False Arrest</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Rikers</controllingFieldValue>
+            <controllingFieldValue>PAC</controllingFieldValue>
+            <valueName>Excessive Force</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Rikers</controllingFieldValue>
+            <controllingFieldValue>PAC</controllingFieldValue>
+            <valueName>False Arrest with Excessive Force</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Rikers</controllingFieldValue>
+            <controllingFieldValue>PAC</controllingFieldValue>
+            <valueName>Malicious Prosecution</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Rikers</controllingFieldValue>
+            <controllingFieldValue>PAC</controllingFieldValue>
+            <valueName>Failure to Supervise</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Premises</controllingFieldValue>
+            <valueName>Slip and Fall</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Premises</controllingFieldValue>
+            <valueName>Trip and Fall</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Premises</controllingFieldValue>
+            <valueName>Snow &amp; Ice</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Premises</controllingFieldValue>
+            <valueName>Ceiling Fall</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Premises</controllingFieldValue>
+            <valueName>Ceiling Collapse / Falling Object</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Premises</controllingFieldValue>
+            <valueName>Elevator</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Premises</controllingFieldValue>
+            <valueName>Escalator</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Premises</controllingFieldValue>
+            <valueName>Lead Poison</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Premises</controllingFieldValue>
+            <valueName>Dog Bite</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>MVA</controllingFieldValue>
+            <valueName>Rearend</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>MVA</controllingFieldValue>
+            <valueName>Sideswipe</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>MVA</controllingFieldValue>
+            <valueName>Pedestrian Knockdown</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>MVA</controllingFieldValue>
+            <valueName>Bicycle Knockdown</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>MVA</controllingFieldValue>
+            <valueName>Motorcycle</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>
