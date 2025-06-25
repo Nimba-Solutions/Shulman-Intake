@@ -13,20 +13,20 @@ project:
     source_format: sfdx
     dependencies:
         - namespace: litify_pm
-          version: "32.9.0.1"
-        - name: GetPicklistValuesBulkified
+          version: "32.9"
+        - package_name: GetPicklistValuesBulkified
           version_id: "04t5G0000043xs7QAA"
-        - name: directNavigation
+        - package_name: directNavigation
           version_id: "04t5G000004PuWpQAK"
-        - name: customHeader
+        - package_name: customHeader
           version_id: "04t5G000004PucoQAC"
-        - name: lookupFSC
+        - package_name: lookupFSC
           version_id: "04t1K0000033M3ZQAU"
-        - name: ShowToastFA
+        - package_name: ShowToastFA
           version_id: "04tB0000000N6GxIAK"
-        - name: FlowActionsBasePack
+        - package_name: FlowActionsBasePack
           version_id: "04t8b000001BTgsAAG"
-        - name: FlowScreenComponentsBasePack
+        - package_name: FlowScreenComponentsBasePack
           version_id: "04t5G000004XZjLQAW"
 
 tasks:
