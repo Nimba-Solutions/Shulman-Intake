@@ -22,6 +22,12 @@
       "sessionSettings": {
         "forceRelogin": false
       }
+    },
+    "languageSettings": {
+      "enableTranslationWorkbench": true
+    },
+    "apexSettings": {
+      "enableCompileOnDeploy": true
     }
   }
 }
