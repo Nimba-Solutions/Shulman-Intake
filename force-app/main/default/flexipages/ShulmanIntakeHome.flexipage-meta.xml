@@ -33,7 +33,7 @@
                     <name>entityNames</name>
                     <valueList>
                         <valueListItems>
-                            <value>ApiAnomalyEventStore</value>
+                            <value>litify_pm__Intake__c</value>
                         </valueListItems>
                     </valueList>
                 </componentInstanceProperties>
