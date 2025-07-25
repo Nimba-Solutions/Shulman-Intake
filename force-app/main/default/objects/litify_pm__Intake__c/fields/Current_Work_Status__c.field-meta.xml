@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Current_Work_Status__c</fullName>
+    <label>Current Work Status</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Working</fullName>
+                <default>false</default>
+                <label>Working</label>
+            </value>
+            <value>
+                <fullName>Working (Reduced Earnings)</fullName>
+                <default>false</default>
+                <label>Working (Reduced Earnings)</label>
+            </value>
+            <value>
+                <fullName>Not Working</fullName>
+                <default>false</default>
+                <label>Not Working</label>
+            </value>
+            <value>
+                <fullName>Not Working (Unrelated)</fullName>
+                <default>false</default>
+                <label>Not Working (Unrelated)</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

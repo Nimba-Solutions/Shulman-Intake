@@ -4,5 +4,6 @@
     <hasActivationRequired>false</hasActivationRequired>
     <label>Shulman Intake User</label>
     <permissionSets>ShulmanIntakeApp</permissionSets>
+    <permissionSets>Worker_Compensation_Intake_Flow</permissionSets>
     <status>Updated</status>
 </PermissionSetGroup>

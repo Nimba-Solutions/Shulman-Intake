@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Body_parts_injured__c</fullName>
+    <label>Body parts injured</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Neck</fullName>
+                <default>false</default>
+                <label>Neck</label>
+            </value>
+            <value>
+                <fullName>Back</fullName>
+                <default>false</default>
+                <label>Back</label>
+            </value>
+            <value>
+                <fullName>Right Arm</fullName>
+                <default>false</default>
+                <label>Right Arm</label>
+            </value>
+            <value>
+                <fullName>Left Arm</fullName>
+                <default>false</default>
+                <label>Left Arm</label>
+            </value>
+            <value>
+                <fullName>Right Shoulder</fullName>
+                <default>false</default>
+                <label>Right Shoulder</label>
+            </value>
+            <value>
+                <fullName>Left Shoulder</fullName>
+                <default>false</default>
+                <label>Left Shoulder</label>
+            </value>
+            <value>
+                <fullName>Right Elbow</fullName>
+                <default>false</default>
+                <label>Right Elbow</label>
+            </value>
+            <value>
+                <fullName>Left Elbow</fullName>
+                <default>false</default>
+                <label>Left Elbow</label>
+            </value>
+            <value>
+                <fullName>Right Hand/Wrist</fullName>
+                <default>false</default>
+                <label>Right Hand/Wrist</label>
+            </value>
+            <value>
+                <fullName>Right Fingers</fullName>
+                <default>false</default>
+                <label>Right Fingers</label>
+            </value>
+            <value>
+                <fullName>Left Hand/Wrist</fullName>
+                <default>false</default>
+                <label>Left Hand/Wrist</label>
+            </value>
+            <value>
+                <fullName>Left Fingers</fullName>
+                <default>false</default>
+                <label>Left Fingers</label>
+            </value>
+            <value>
+                <fullName>Right Leg</fullName>
+                <default>false</default>
+                <label>Right Leg</label>
+            </value>
+            <value>
+                <fullName>Left Leg</fullName>
+                <default>false</default>
+                <label>Left Leg</label>
+            </value>
+            <value>
+                <fullName>Right Hip</fullName>
+                <default>false</default>
+                <label>Right Hip</label>
+            </value>
+            <value>
+                <fullName>Left Hip</fullName>
+                <default>false</default>
+                <label>Left Hip</label>
+            </value>
+            <value>
+                <fullName>Right Knee</fullName>
+                <default>false</default>
+                <label>Right Knee</label>
+            </value>
+            <value>
+                <fullName>Left Knee</fullName>
+                <default>false</default>
+                <label>Left Knee</label>
+            </value>
+            <value>
+                <fullName>Right Foot/Ankle</fullName>
+                <default>false</default>
+                <label>Right Foot/Ankle</label>
+            </value>
+            <value>
+                <fullName>Left Foot/Ankle</fullName>
+                <default>false</default>
+                <label>Left Foot/Ankle</label>
+            </value>
+            <value>
+                <fullName>Head</fullName>
+                <default>false</default>
+                <label>Head</label>
+            </value>
+            <value>
+                <fullName>Brain</fullName>
+                <default>false</default>
+                <label>Brain</label>
+            </value>
+            <value>
+                <fullName>Face</fullName>
+                <default>false</default>
+                <label>Face</label>
+            </value>
+            <value>
+                <fullName>Right Eye</fullName>
+                <default>false</default>
+                <label>Right Eye</label>
+            </value>
+            <value>
+                <fullName>Left Eye</fullName>
+                <default>false</default>
+                <label>Left Eye</label>
+            </value>
+            <value>
+                <fullName>Right Ear (Hearing Loss)</fullName>
+                <default>false</default>
+                <label>Right Ear (Hearing Loss)</label>
+            </value>
+            <value>
+                <fullName>Left Ear (Hearing Loss)</fullName>
+                <default>false</default>
+                <label>Left Ear (Hearing Loss)</label>
+            </value>
+            <value>
+                <fullName>PCS</fullName>
+                <default>false</default>
+                <label>PCS</label>
+            </value>
+            <value>
+                <fullName>TBI</fullName>
+                <default>false</default>
+                <label>TBI</label>
+            </value>
+            <value>
+                <fullName>PTSD</fullName>
+                <default>false</default>
+                <label>PTSD</label>
+            </value>
+            <value>
+                <fullName>Anxiety/Depression</fullName>
+                <default>false</default>
+                <label>Anxiety/Depression</label>
+            </value>
+            <value>
+                <fullName>CRPS</fullName>
+                <default>false</default>
+                <label>CRPS</label>
+            </value>
+            <value>
+                <fullName>Teeth</fullName>
+                <default>false</default>
+                <label>Teeth</label>
+            </value>
+            <value>
+                <fullName>Pelvis</fullName>
+                <default>false</default>
+                <label>Pelvis</label>
+            </value>
+            <value>
+                <fullName>Hernia</fullName>
+                <default>false</default>
+                <label>Hernia</label>
+            </value>
+            <value>
+                <fullName>Chest</fullName>
+                <default>false</default>
+                <label>Chest</label>
+            </value>
+            <value>
+                <fullName>Right Ribs</fullName>
+                <default>false</default>
+                <label>Right Ribs</label>
+            </value>
+            <value>
+                <fullName>Left Ribs</fullName>
+                <default>false</default>
+                <label>Left Ribs</label>
+            </value>
+            <value>
+                <fullName>Thoracic Spine</fullName>
+                <default>false</default>
+                <label>Thoracic Spine</label>
+            </value>
+            <value>
+                <fullName>Lumbar Spine</fullName>
+                <default>false</default>
+                <label>Lumbar Spine</label>
+            </value>
+            <value>
+                <fullName>Nose</fullName>
+                <default>false</default>
+                <label>Nose</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>3</visibleLines>
+</CustomField>

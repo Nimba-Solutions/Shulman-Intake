@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>If_you_returned_to_work_who_are_you_wor__c</fullName>
+    <label>If you returned to work, who are you wor</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Same Employer</fullName>
+                <default>false</default>
+                <label>Same Employer</label>
+            </value>
+            <value>
+                <fullName>New Employer</fullName>
+                <default>false</default>
+                <label>New Employer</label>
+            </value>
+            <value>
+                <fullName>Self Employed</fullName>
+                <default>false</default>
+                <label>Self Employed</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
