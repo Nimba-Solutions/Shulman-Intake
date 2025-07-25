@@ -9,15 +9,6 @@
         <enabled>true</enabled>
         <flow>Worker_Compensation_Intake_Questionnaire</flow>
     </flowAccesses>
-    <flowAccesses>
-        <enabled>true</enabled>
-        <flow>WC_PI_Intake_Questionnaire</flow>
-    </flowAccesses>
-    <flowAccesses>
-        <enabled>true</enabled>
-        <flow>Quick_Create_Intake</flow>
-    </flowAccesses>
-    
     <!-- Object Permissions -->
     <objectPermissions>
         <allowCreate>true</allowCreate>
