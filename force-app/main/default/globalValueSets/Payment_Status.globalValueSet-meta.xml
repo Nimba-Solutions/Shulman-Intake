@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Voluntary Payments</fullName>
+        <default>false</default>
+        <label>Voluntary Payments</label>
+    </customValue>
+    <customValue>
+        <fullName>CCP</fullName>
+        <default>false</default>
+        <label>CCP</label>
+    </customValue>
+    <customValue>
+        <fullName>Wages/Sick Time</fullName>
+        <default>false</default>
+        <label>Wages/Sick Time</label>
+    </customValue>
+    <customValue>
+        <fullName>Grant</fullName>
+        <default>false</default>
+        <label>Grant</label>
+    </customValue>
+    <customValue>
+        <fullName>No Payments</fullName>
+        <default>false</default>
+        <label>No Payments</label>
+    </customValue>
+    <masterLabel>Payment Status</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

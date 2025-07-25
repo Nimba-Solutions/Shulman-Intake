@@ -309,6 +309,16 @@
         <field>litify_pm__Intake__c.litify_pm__Questionnaire_End_Date__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>litify_pm__Intake__c.Did_you_receive_any_tips__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>litify_pm__Intake__c.Concurrent_Employers__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
 
     <!-- Custom Account Field Permissions -->
     <fieldPermissions>
