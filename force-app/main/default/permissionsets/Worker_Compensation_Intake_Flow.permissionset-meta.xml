@@ -4,11 +4,6 @@
     <hasActivationRequired>false</hasActivationRequired>
     <label>Worker Compensation Intake Flow</label>
     
-    <!-- Flow Access -->
-    <flowAccesses>
-        <enabled>true</enabled>
-        <flow>Worker_Compensation_Intake_Questionnaire</flow>
-    </flowAccesses>
     <!-- Object Permissions -->
     <objectPermissions>
         <allowCreate>true</allowCreate>
